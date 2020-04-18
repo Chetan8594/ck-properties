@@ -1,0 +1,12 @@
+info:
+  app:
+    name: Test Service
+    description: This is the Test service
+    version: 1.0.0
+
+logging:
+  level:
+     org.springframework.security: DEBUG
+     org.springframework.web.client.RestTemplate: DEBUG
+     org.springframework.security.oauth: DEBUG
+     org.springframework.security.oauth2: DEBUG
