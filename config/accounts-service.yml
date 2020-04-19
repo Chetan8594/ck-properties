@@ -1,0 +1,12 @@
+info:
+  app:
+    name: Accounts Service
+    description: This is the Accounts service
+    version: 1.0.0
+
+logging:
+  level:
+    org.springframework.security: DEBUG
+    org.springframework.web.client.RestTemplate: DEBUG
+    org.springframework.security.oauth: DEBUG
+    com.chetan.accounts: DEBUG
