@@ -1,1 +1,4 @@
-test.message: "Hello this is Accounts Service"
+spring:
+  data.mongodb:
+    host: localhost
+    port: 27017
